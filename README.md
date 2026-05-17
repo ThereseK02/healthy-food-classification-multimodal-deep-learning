@@ -292,13 +292,13 @@ The multimodal framework was evaluated using:
 
 The multimodal deep learning framework successfully learned meaningful relationships between food images and structured nutritional metadata.
 
-The final model achieved approximately **79% validation accuracy** on the reduced experimental dataset while demonstrating encouraging classification performance across:
+The final model achieved a peak validation accuracy of approximately 72.5% on the reduced experimental dataset, while reaching 77.25% training accuracy during training. The model demonstrated encouraging classification performance across:
 
 - Healthy foods
 - Moderately Healthy foods
 - Unhealthy foods
 
-Training curves showed progressive performance improvements during early training stages, although mild validation instability was observed during later epochs.
+Training curves showed progressive performance improvements during the early training stages, although minor fluctuations in validation performance were observed during later epochs.
 
 ---
 
