@@ -1,0 +1,75 @@
+# =========================
+# Python Cache
+# =========================
+__pycache__/
+*.py[cod]
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# Logs and Temporary Files
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# Environment Variables
+# =========================
+.env
+
+# =========================
+# Streamlit Cache
+# =========================
+.streamlit/
+
+# =========================
+# TensorBoard
+# =========================
+runs/
+
+# =========================
+# PyTorch / Model Artifacts
+# =========================
+
+# Ignore temporary PyTorch files
+*.pt
+
+# OPTIONAL:
+# Uncomment ONLY if model checkpoints
+# become too large for GitHub.
+
+# *.pth
+
+# =========================
+# Dataset Cache (Optional)
+# =========================
+
+# data/cache/
+
+# =========================
+# System Files
+# =========================
+Thumbs.db
+
+.idea/
