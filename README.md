@@ -15,6 +15,7 @@ A multimodal deep learning framework that combines food image analysis with stru
 - [Project Highlights](#project-highlights)
 - [Problem Statement](#problem-statement)
 - [Objectives](#objectives)
+- [Data Source] (#data-source) 
 - [Dataset Description](#dataset-description)
 - [Dataset Characteristics](#dataset-characteristics)
 - [Technologies Used](#technologies-used)
@@ -86,6 +87,11 @@ The primary objectives of this project are:
 - Prepare the framework for future deployment as an interactive web application
 
 ---
+## Dataset Source
+
+This project uses the MM-Food-100K multimodal food dataset available on Hugging Face:
+
+https://huggingface.co/datasets/Codatta/MM-Food-100K
 
 ## Dataset Description
 
@@ -404,7 +410,7 @@ healthy-food-classification-multimodal-deep-learning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/healthy-food-classification-multimodal-deep-learning.git
+git clone https://github.com/ThereseK02/healthy-food-classification-multimodal-deep-learning.git
 ```
 
 Navigate into the project directory:
